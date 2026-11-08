@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApplication"
+        parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#FAFBF6</item>
+        <item name="android:navigationBarColor">#FAFBF6</item>
+        <item name="android:windowBackground">#FAFBF6</item>
+    </style>
+
+    <style name="Theme.ShelfLife.Splash"
+        parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FAFBF6</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="windowSplashScreenAnimationDuration">500</item>
+        <item name="postSplashScreenTheme">@style/Theme.MyApplication</item>
+    </style>
+</resources>
