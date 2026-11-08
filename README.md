@@ -16,6 +16,15 @@ ShelfLife is an Android pantry management application designed to help users tra
 - **Food Waste Insights:** View monthly statistics and food usage information.
 - **Local Database:** Store pantry information using Room.
 - **Smooth UI:** Animated interactions and a scrollable dashboard.
+- ## 📥 Download ShelfLife
+
+Get the latest stable Android release:
+
+[**⬇️ Download ShelfLife APK**](https://github.com/SayantikaRay26/ShelfLife/releases/latest/download/ShelfLife-v1.0.1.apk)
+
+**Installation:** Download the APK on your Android device, open it, and follow the installation instructions.
+
+For release notes and previous versions, visit [GitHub Releases](https://github.com/SayantikaRay26/ShelfLife/releases).
 
 ## 📱 Screenshots
 
